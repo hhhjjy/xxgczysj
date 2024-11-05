@@ -2,8 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/7af36a92-5d6a-4317-8d4f-6cf605145d29)
 
-
-![video (2)](https://github.com/user-attachments/assets/d528b0dd-0c6d-4c2d-a594-3f441c199d90)
+![无标题视频——使用Clipchamp制作 (1)](https://github.com/user-attachments/assets/8146a925-896f-4d16-9a8e-c8fb16119b84)
 
 
 使用的python版本为3.8
